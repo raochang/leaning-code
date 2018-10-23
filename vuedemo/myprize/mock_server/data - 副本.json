@@ -1,0 +1,179 @@
+{
+  "MOCKDATA": [
+    {
+      "url": "/api/prizelist/get.do",
+      "desc": "",
+      "mock": true,
+      "res": {
+        "message": "success",
+        "data": {
+          "total": 9,
+          "prize": [
+
+            {
+              "acDesc": "[H5] 流量",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "30流量",
+              "prizeType": 1,
+              "prizeStatus": 0,
+              "subPrizeType": "FLOW",
+              "itemId":"",
+              "address": {}
+            },
+            {
+              "acDesc": "[福利社]-[QQ浏览器]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "5元话费",
+              "prizeType": 0,
+              "subPrizeType": "PHONE",
+              "phone": "15812345678",
+              "prizeStatus":2
+            },
+            {
+              "acDesc": "80U豆",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "80U豆",
+              "prizeType": 0,
+              "prizeStatus": 0,
+              "itemId":"",
+              "address": {}
+            },
+            {
+              "acDesc": "[H5] 2017春节活动豪礼送不停",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "单价499元天天动听耳机",
+              "prizeType": 0,
+              "prizeStatus": 0,
+              "itemId":"12131321",
+              "address": {
+                "name": "张三",
+                "phone": "15812345678",
+                "province": "四川",
+                "city": "成都",
+                "area": "锦江区",
+                "detailAddr": "软件园C12-11F"
+              }
+            },
+            {
+              "acDesc": "[H5] 2017春节活动豪礼送不停",
+              "exchangedTime": "2017.01.02",
+              "prizeStatus": -1
+            },
+            {
+              "acDesc": "[H5] 2017春节活动豪礼送不停送不停送不停送不停送不停送不停送不停",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "单价499元天天动听耳机",
+              "prizeType": 0,
+              "prizeStatus": 1,
+              "deliveryNum": "EMS-12112121212112"
+            },
+            {
+              "acDesc": "[H5] 2017春节活动豪礼送不停",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "单价499元天天动听耳机",
+              "prizeType": 0,
+              "prizeStatus": 2
+            },
+            {
+              "acDesc": "[H5] 2017春节活动豪礼送不停",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "单价499元天天动听耳机",
+              "prizeType": 0,
+              "prizeStatus": -2
+            },
+            {
+              "acDesc": "[福利社]-[QQ浏览器]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "5元话费",
+              "prizeType": 1,
+              "subPrizeType": "PHONE",
+              "prizeStatus": -1
+            },
+            {
+              "acDesc": "[福利社]-[QQ浏览器]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "5元话费",
+              "prizeType": 1,
+              "subPrizeType": "PHONE",
+              "prizeStatus": 1,
+              "phone": "15812345678"
+            },
+            {
+              "acDesc": "[福利社]-[QQ浏览器]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "5元QB",
+              "prizeType": 1,
+              "subPrizeType": "QB",
+              "prizeStatus": 2,
+              "QQ": "123456789"
+            },
+            {
+              "acDesc": "[福利社]-[QQ浏览器]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "5元话费",
+              "prizeType": 1,
+              "prizeStatus": 3,
+              "phone": "15812345678"
+            },
+            {
+              "acDesc": "[福利社]-[QQ浏览器]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "5元QB",
+              "prizeType": 1,
+              "subPrizeType": "QB",
+              "prizeStatus": -2,
+              "QQ": "123456789"
+            },
+            {
+              "acDesc": "[福利社]-[QQ浏览器]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "5元话费",
+              "prizeType": 1,
+              "prizeStatus": 2,
+              "phone": "15812345678",
+              "prizeRemark": "已更换为10元QB"
+            },
+            {
+              "acDesc": "[福利社]-[WIFI管家]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "50元京东卡",
+              "prizeType": 2,
+              "prizeStatus": -1
+            },
+            {
+              "acDesc": "[福利社]-[WIFI管家]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "50元京东卡",
+              "prizeType": 2,
+              "prizeStatus": 0
+            },
+            {
+              "acDesc": "[福利社]-[WIFI管家]",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "50元京东卡",
+              "prizeType": 2,
+              "prizeStatus": 1,
+              "prizeRemark": "卡号XXXXX密码XXXXX"
+            },
+            {
+              "acDesc": "[福利社]-[卷皮折扣]给阿姨一杯卡布奇诺",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "100元减20元折扣券",
+              "prizeType": 2,
+              "prizeStatus": 1,
+              "prizeRemark": "优惠码-XXXXXXXXXXXXXXXXXXXX <br/>截止日期-2017年8月17日"
+            },
+            {
+              "acDesc": "[福利社]-[卷皮折扣]给阿姨一杯卡布奇诺",
+              "exchangedTime": "2017.01.02",
+              "prizeDesc": "100元减20元折扣券",
+              "prizeType": 2,
+              "prizeStatus": -2
+            }
+          ]
+        },
+        "code": "0"
+      }
+    }
+  ]
+}
